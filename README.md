@@ -1,3 +1,9 @@
+# This repository has moved!
+
+New place is https://github.com/sonatype/nexus-ruby-support
+
+----
+
 Nexus Ruby Support
 ==================
 
